@@ -1,3 +1,3 @@
 # Customers-API
-url to follow
-https://udemy.com/labs/create-a-cicd-pipeline-for-a-java-spring-web-application-using-devsecops-practices/overview/
+Lab to follow
+Create a CI/CD Pipeline for a Java Spring Web Application using DevSecOps Practices by Valentin Despa on udemy
